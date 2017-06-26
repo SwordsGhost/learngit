@@ -11,3 +11,6 @@ test for remote
 test for branch
 
 & simple
+
+test for merge
+
